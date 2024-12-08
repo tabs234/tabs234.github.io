@@ -1,9 +1,10 @@
 <html>
 <body>
 
-<h1>im sigma</h1>
+<h1>testing site</h1>
 
-<button type="button" onclick="alert('skibidi dop dop dop yes yes!')">skibidi toilet!</button>
+<h3>test of button tag</h3>
+<button type="button" onclick="alert('test of alert!')">alert</button>
  
 </body>
 </html>
